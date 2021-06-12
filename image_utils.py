@@ -247,5 +247,15 @@ def draw_lines(img,lines_params):
         ax.plot(lin,lin*params[0]+params[1],'r-')
     ax.set_xlim(0,img.shape[1])
     ax.set_ylim(0,img.shape[0])
-    plt.show()     
+    plt.show()
+    
+def draw_points(img,points):
+    fig, ax = plt.subplots()
+    ax.imshow(img,  extent=[0, img.shape[1], 0, img.shape[0]])
+    
+    for x, y in points:
+        ax.plot(x, y, 'b+', markersize=15)
+    ax.set_xlim(0,img.shape[1])
+    ax.set_ylim(0,img.shape[0])
+    plt.show()   
 
