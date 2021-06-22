@@ -254,7 +254,7 @@ def draw_points(img,points):
     ax.imshow(img,  extent=[0, img.shape[1], 0, img.shape[0]])
     
     for x, y in points:
-        ax.plot(x, y, 'b+', markersize=15)
+        ax.plot(x, y, 'rx', markersize=15, markeredgewidth=5)
     ax.set_xlim(0,img.shape[1])
     ax.set_ylim(0,img.shape[0])
     plt.show()   

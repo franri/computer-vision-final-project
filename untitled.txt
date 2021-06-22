@@ -1,0 +1,221 @@
+##Loading 7308 positive face images
+##Loading 4902 negative face images
+started training C 0.01 kernel linear  , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 0.01 kernel linear   - Detection Average Precision is 0.07029989820687496
+started training C 0.01 kernel poly    , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 0.01 kernel poly     - Detection Average Precision is 0.1538666453554972
+started training C 0.01 kernel rbf     , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 0.01 kernel rbf      - Detection Average Precision is 0.05564044888120517
+started training C 0.01 kernel sigmoid , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 0.01 kernel sigmoid  - Detection Average Precision is 0.0020035536228330698
+started training C 0.1 kernel linear  , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 0.1 kernel linear   - Detection Average Precision is 0.1139317908357497
+started training C 0.1 kernel poly    , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 0.1 kernel poly     - Detection Average Precision is 0.2546976744186048
+started training C 0.1 kernel rbf     , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 0.1 kernel rbf      - Detection Average Precision is 0.11829159212880158
+started training C 0.1 kernel sigmoid , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 0.1 kernel sigmoid  - Detection Average Precision is 0.002015255121533982
+started training C 0.5 kernel linear  , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 0.5 kernel linear   - Detection Average Precision is 0.1378343161288898
+started training C 0.5 kernel poly    , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 0.5 kernel poly     - Detection Average Precision is 0.3552752594928393
+started training C 0.5 kernel rbf     , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 0.5 kernel rbf      - Detection Average Precision is 0.19931977296318376
+started training C 0.5 kernel sigmoid , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 0.5 kernel sigmoid  - Detection Average Precision is 0.0022549967441985296
+started training C   1 kernel linear  , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 1.0 kernel linear   - Detection Average Precision is 0.1322417831872298
+started training C   1 kernel poly    , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 1.0 kernel poly     - Detection Average Precision is 0.3486231518431876
+started training C   1 kernel rbf     , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 1.0 kernel rbf      - Detection Average Precision is 0.2614287657127314
+started training C   1 kernel sigmoid , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 1.0 kernel sigmoid  - Detection Average Precision is 0.00224969123738075
+started training C   2 kernel linear  , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 2.0 kernel linear   - Detection Average Precision is 0.1242659149635895
+started training C   2 kernel poly    , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 2.0 kernel poly     - Detection Average Precision is 0.35582405843546555
+started training C   2 kernel rbf     , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 2.0 kernel rbf      - Detection Average Precision is 0.32735124420374495
+started training C   2 kernel sigmoid , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 2.0 kernel sigmoid  - Detection Average Precision is 0.002256922456714252
+started training C   5 kernel linear  , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 5.0 kernel linear   - Detection Average Precision is 0.1269454960639383
+started training C   5 kernel poly    , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 5.0 kernel poly     - Detection Average Precision is 0.32969497163562933
+started training C   5 kernel rbf     , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 5.0 kernel rbf      - Detection Average Precision is 0.3894146986358991
+started training C   5 kernel sigmoid , fe FeatureExtractors.HOG
+finished training
+starting validation
+ending validation
+
+C 5.0 kernel sigmoid  - Detection Average Precision is 0.0022966593469572055
+##Loading 7308 positive face images
+##Loading 4902 negative face images
+started training C 0.01 kernel linear  , fe FeatureExtractors.LBP
+finished training
+starting validation
+ending validation
+
+C 0.01 kernel linear   - Detection Average Precision is 0.0943324720068906
+started training C 0.01 kernel poly    , fe FeatureExtractors.LBP
+finished training
+starting validation
+ending validation
+
+C 0.01 kernel poly     - Detection Average Precision is 0.20231038151694797
+started training C 0.01 kernel rbf     , fe FeatureExtractors.LBP
+finished training
+starting validation
+ending validation
+
+C 0.01 kernel rbf      - Detection Average Precision is 0.21649048625792827
+started training C 0.01 kernel sigmoid , fe FeatureExtractors.LBP
+finished training
+starting validation
+ending validation
+
+C 0.01 kernel sigmoid  - Detection Average Precision is 0.007085627655363041
+started training C 0.1 kernel linear  , fe FeatureExtractors.LBP
+finished training
+starting validation
+ending validation
+
+C 0.1 kernel linear   - Detection Average Precision is 0.09496557584586299
+started training C 0.1 kernel poly    , fe FeatureExtractors.LBP
+finished training
+starting validation
+ending validation
+
+C 0.1 kernel poly     - Detection Average Precision is 0.25797185111880827
+started training C 0.1 kernel rbf     , fe FeatureExtractors.LBP
+finished training
+starting validation
+ending validation
+
+C 0.1 kernel rbf      - Detection Average Precision is 0.31134601832276276
+started training C 0.1 kernel sigmoid , fe FeatureExtractors.LBP
+finished training
+starting validation
+ending validation
+
+C 0.1 kernel sigmoid  - Detection Average Precision is 0.008677279631069753
+started training C 0.5 kernel linear  , fe FeatureExtractors.LBP
+finished training
+starting validation
+ending validation
+
+C 0.5 kernel linear   - Detection Average Precision is 0.09496557584586304
+started training C 0.5 kernel poly    , fe FeatureExtractors.LBP
+finished training
+starting validation
+ending validation
+
+C 0.5 kernel poly     - Detection Average Precision is 0.26729830605799604
+started training C 0.5 kernel rbf     , fe FeatureExtractors.LBP
+finished training
+starting validation
+ending validation
+
+C 0.5 kernel rbf      - Detection Average Precision is 0.34045363192650036
+started training C 0.5 kernel sigmoid , fe FeatureExtractors.LBP
+finished training
+starting validation
+ending validation
+
+C 0.5 kernel sigmoid  - Detection Average Precision is 0.008259322980368376
+started training C   1 kernel linear  , fe FeatureExtractors.LBP
